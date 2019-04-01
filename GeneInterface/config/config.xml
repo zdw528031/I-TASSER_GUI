@@ -1,0 +1,9 @@
+<config>
+    <ITASSER_DIR>/home/dawei/I-TASSER5.1</ITASSER_DIR>
+	<LIBRARY_DIR>/home/dawei/ITLIB</LIBRARY_DIR>
+	<OUTPUT_DIR>/home/dawei/Desktop/protein</OUTPUT_DIR>
+	<CHIMERA_DIR>/opt/UCSF/Chimera64-1.13.1/bin</CHIMERA_DIR>
+	<info>
+		<version>5.1</version>
+	</info>
+</config>
